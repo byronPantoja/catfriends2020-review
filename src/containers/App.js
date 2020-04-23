@@ -36,7 +36,7 @@ class App extends Component {
 			<h1>Loading</h1>
 		) : (
 			<div>
-				<h1 className='f3 f-headline-l'>C A T P E O P L E</h1>
+				<h1 className='f1'>C A T F R I E N D S</h1>
 				<SearchBox searchChange={onSearchChange} />
 				<Scroll>
 					<CardList people={filteredCatpeople} />
