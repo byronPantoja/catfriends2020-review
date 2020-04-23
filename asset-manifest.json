@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/catfriends2020-review/static/css/main.6911261d.chunk.css",
+    "main.css": "/catfriends2020-review/static/css/main.6a93d9e8.chunk.css",
     "main.js": "/catfriends2020-review/static/js/main.1b9d00ee.chunk.js",
     "main.js.map": "/catfriends2020-review/static/js/main.1b9d00ee.chunk.js.map",
     "runtime-main.js": "/catfriends2020-review/static/js/runtime-main.cafe6c90.js",
@@ -9,10 +9,10 @@
     "static/js/2.46f2730e.chunk.js": "/catfriends2020-review/static/js/2.46f2730e.chunk.js",
     "static/js/2.46f2730e.chunk.js.map": "/catfriends2020-review/static/js/2.46f2730e.chunk.js.map",
     "index.html": "/catfriends2020-review/index.html",
-    "precache-manifest.332c4295520f195ec376824f8ae4f65b.js": "/catfriends2020-review/precache-manifest.332c4295520f195ec376824f8ae4f65b.js",
+    "precache-manifest.f9ed9412774326084d4d650c56c73946.js": "/catfriends2020-review/precache-manifest.f9ed9412774326084d4d650c56c73946.js",
     "service-worker.js": "/catfriends2020-review/service-worker.js",
     "static/css/2.66b7f74f.chunk.css.map": "/catfriends2020-review/static/css/2.66b7f74f.chunk.css.map",
-    "static/css/main.6911261d.chunk.css.map": "/catfriends2020-review/static/css/main.6911261d.chunk.css.map",
+    "static/css/main.6a93d9e8.chunk.css.map": "/catfriends2020-review/static/css/main.6a93d9e8.chunk.css.map",
     "static/js/2.46f2730e.chunk.js.LICENSE.txt": "/catfriends2020-review/static/js/2.46f2730e.chunk.js.LICENSE.txt",
     "static/media/App.css": "/catfriends2020-review/static/media/Typoline Demi Shadow._italic_demo.573c5a4b.woff"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.cafe6c90.js",
     "static/css/2.66b7f74f.chunk.css",
     "static/js/2.46f2730e.chunk.js",
-    "static/css/main.6911261d.chunk.css",
+    "static/css/main.6a93d9e8.chunk.css",
     "static/js/main.1b9d00ee.chunk.js"
   ]
 }
