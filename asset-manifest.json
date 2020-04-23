@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/catfriends2020-review/static/css/main.6a93d9e8.chunk.css",
-    "main.js": "/catfriends2020-review/static/js/main.1b9d00ee.chunk.js",
-    "main.js.map": "/catfriends2020-review/static/js/main.1b9d00ee.chunk.js.map",
+    "main.js": "/catfriends2020-review/static/js/main.22317a99.chunk.js",
+    "main.js.map": "/catfriends2020-review/static/js/main.22317a99.chunk.js.map",
     "runtime-main.js": "/catfriends2020-review/static/js/runtime-main.cafe6c90.js",
     "runtime-main.js.map": "/catfriends2020-review/static/js/runtime-main.cafe6c90.js.map",
     "static/css/2.66b7f74f.chunk.css": "/catfriends2020-review/static/css/2.66b7f74f.chunk.css",
     "static/js/2.46f2730e.chunk.js": "/catfriends2020-review/static/js/2.46f2730e.chunk.js",
     "static/js/2.46f2730e.chunk.js.map": "/catfriends2020-review/static/js/2.46f2730e.chunk.js.map",
     "index.html": "/catfriends2020-review/index.html",
-    "precache-manifest.f9ed9412774326084d4d650c56c73946.js": "/catfriends2020-review/precache-manifest.f9ed9412774326084d4d650c56c73946.js",
+    "precache-manifest.16e4357d48dff498fb923e09ddd7dc90.js": "/catfriends2020-review/precache-manifest.16e4357d48dff498fb923e09ddd7dc90.js",
     "service-worker.js": "/catfriends2020-review/service-worker.js",
     "static/css/2.66b7f74f.chunk.css.map": "/catfriends2020-review/static/css/2.66b7f74f.chunk.css.map",
     "static/css/main.6a93d9e8.chunk.css.map": "/catfriends2020-review/static/css/main.6a93d9e8.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.66b7f74f.chunk.css",
     "static/js/2.46f2730e.chunk.js",
     "static/css/main.6a93d9e8.chunk.css",
-    "static/js/main.1b9d00ee.chunk.js"
+    "static/js/main.22317a99.chunk.js"
   ]
 }
